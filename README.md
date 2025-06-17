@@ -2,12 +2,6 @@
 
 A user-friendly postfix (reverse Polish notation) calculator built with Python and Tkinter. This calculator accepts standard infix mathematical expressions, converts them to postfix notation, and evaluates them. The GUI offers a clean interface for simple input and results.
 
-## 📸 Screenshot
-
-![Postfix Calculator GUI](screenshot.png)  
-
-
----
 
 ## 🚀 Features
 
