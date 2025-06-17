@@ -5,7 +5,7 @@ A user-friendly postfix (reverse Polish notation) calculator built with Python a
 ## 📸 Screenshot
 
 ![Postfix Calculator GUI](screenshot.png)  
-*(Add a screenshot here if available)*
+
 
 ---
 
